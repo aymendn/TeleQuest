@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655263421876",
+    "project_id": "nasa-petacode",
+    "storage_bucket": "nasa-petacode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655263421876:android:d9973c263f684f16cecee1",
+        "android_client_info": {
+          "package_name": "com.example.nasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655263421876-hi8g0g75a345o5b4eb5m293ddgo6cqqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nasa",
+            "certificate_hash": "6fddf1836a171f86dbf571b036546fda01a20110"
+          }
+        },
+        {
+          "client_id": "655263421876-lds72sjsodssuu3vglutgih5jktgdvle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00ZmnPq2Uvbj3AghoWQYcHDuKWe0-ENQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655263421876-lds72sjsodssuu3vglutgih5jktgdvle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
