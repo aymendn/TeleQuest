@@ -18,4 +18,4 @@ principle of "first click, first answer".
 questions about the telescope, by the principle of "first click, first answer". and
 the winner will get points, and rank up.
 
-## Download the app: (Click HERE)
+## Download the app: [Click HERE](https://raw.githubusercontent.com/aymendn/TeleQuest/main/app-release.apk)
